@@ -287,16 +287,18 @@ body {
 
 /* Next participant */
 #participant-14 {
-	background-color: white;
+  /* background-color: white; */
+  background-image: url(https://i.pinimg.com/originals/1f/0b/a3/1f0ba36bc496cdfb9e87b480b11adc94.gif);
 }
 #participant-14 .profile-photo {
-	background-image: url("../images/participant-photo.png");
+  background-image: url("https://i.pinimg.com/736x/0a/2c/35/0a2c35f0a8ad809a941cb17c2fe532f0.jpg");
 }
 #participant-14 .participant-name::before {
-	/* content: "Your Name Here"; */
+  content: "14_Jirapat(pang)";
 }
 #participant-14 .participant-quote::before {
-	/* content: "Your inspirational quote here." */
+  content: "Nana korobi ya oki.";
+/* "no matter how manytimes you fail,always rise again." */
 }
 
 /* Next participant */
