@@ -185,17 +185,26 @@ body {
 }
 
 /* Next participant */
-#participant-7 {
-  background-color: white;
-}
+/* #participant-7 {
+  background-color: #e0f7fa;
+  border: 3px solid #00796b;
+  box-shadow: 0 4px 10px rgba(0, 121, 107, 0.4);
+  border-radius: 15px;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  -ms-border-radius: 15px;
+  -o-border-radius: 15px;
+} */
 #participant-7 .profile-photo {
-  background-image: url("../images/participant-photo.png");
+  /* background-image: url("../images/fd763e2c-9dac-407e-9f14-f8cb07c599d0.jpeg"); */
 }
 #participant-7 .participant-name::before {
   /* content: "Your Name Here"; */
+  content: "Chut";
 }
 #participant-7 .participant-quote::before {
   /* content: "Your inspirational quote here." */
+  content: "Everything is gone";
 }
 
 /* Next participant */
